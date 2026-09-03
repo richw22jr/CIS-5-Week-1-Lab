@@ -5,7 +5,7 @@
 **Type:** Setup week
 
 
-## Demo video (required)
+## Demo video www.youtube.com/watch?v=6d_p5qnzDX4
 
 Paste a link to a short video of you running this assignment (tool + code + run).
 Work without a working video link is incomplete.
