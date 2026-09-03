@@ -1,9 +1,11 @@
 #include <iostream>
 
-// Lab 1 — Your Name
+// Lab 1 — Richard Webster
 // CIS 5 Week 01
 
+using std::cout;
+
 int main() {
-  std::cout << "Hello World!\n";
+  cout << "Hello World!\n";
   return 0;
 }
